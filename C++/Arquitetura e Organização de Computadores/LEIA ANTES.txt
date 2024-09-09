@@ -1,0 +1,15 @@
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*==*=*=*=*=*=*=*==*=*=*=*=*=*=*==*=*=*=*=*=*=*=
+
+Aqui você encontra os exercícios resolvidos por Débora Camila Santos
+
+Disciplina: Arquitetura e Organização de Computadores
+
+Linguagem: C++
+
+Faculdade: FATEC Ribeirão Preto
+
+Semestre: 1º
+
+Ano: 2024
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*==*=*=*=*=*=*=*==*=*=*=*=*=*=*==*=*=*=*=*=*=*=

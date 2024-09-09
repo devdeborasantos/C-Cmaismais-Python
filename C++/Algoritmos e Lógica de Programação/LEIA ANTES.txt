@@ -1,0 +1,17 @@
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*==*=*=*=*=*=*=*==*=*=*=*=*=*=*==*=*=*=*=*=*=*=
+
+Aqui você encontra os exercícios resolvidos por Débora Camila Santos
+
+====> Pastas organizadas por data: AAAA-MM-DD
+
+Disciplina: Algoritmos e Lógica de Programação
+
+Linguagem: C++
+
+Faculdade: FATEC Ribeirão Preto
+
+Semestre: 1º
+
+Ano: 2024
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*==*=*=*=*=*=*=*==*=*=*=*=*=*=*==*=*=*=*=*=*=*=
