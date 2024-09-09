@@ -1,0 +1,15 @@
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*==*=*=*=*=*=*=*==*=*=*=*=*=*=*==*=*=*=*=*=*=*=
+
+Aqui você encontra os exercícios resolvidos por Débora Camila Santos
+
+Disciplina: Linguagem de Programação
+
+Linguagem: C
+
+Faculdade: FATEC Ribeirão Preto
+
+Semestre: 2º
+
+Ano: 2024
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*==*=*=*=*=*=*=*==*=*=*=*=*=*=*==*=*=*=*=*=*=*=

@@ -1,0 +1,15 @@
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*==*=*=*=*=*=*=*==*=*=*=*=*=*=*==*=*=*=*=*=*=*=
+
+Aqui você encontra os exercícios resolvidos por Débora Camila Santos
+
+Disciplina: Sistemas de Informação
+
+Linguagem: Python
+
+Faculdade: FATEC Ribeirão Preto
+
+Semestre: 2º
+
+Ano: 2024
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*==*=*=*=*=*=*=*==*=*=*=*=*=*=*==*=*=*=*=*=*=*=
